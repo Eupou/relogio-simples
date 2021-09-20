@@ -1,0 +1,36 @@
+body {
+    background: #468ee9;
+    font: normal 15pt arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(24, 23, 23, 0.486);
+}
+footer{
+    color: white;
+    text-align: center;
+    
+}
+
+#msg {
+    text-align: center;
+}
+
+#msgGrande {
+    font: normal 20pt arial;
+    text-align: center;
+    margin-top: 10px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    color: rgb(15, 15, 15);
+} 
+
